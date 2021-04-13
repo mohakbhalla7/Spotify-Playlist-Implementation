@@ -2,9 +2,10 @@
 
 ### Project Description
 
-This JS code is an implementation of a playlist on Spotify.It sign's in the specified account  
-automatically and reads the names of the songs stored in an array in the file `playlist.js`.  
-It then adds them in the play queue on its own.
+This JS code is an implementation of a playlist on Spotify. It sign's in the specified account  
+automatically and reads the name of the songs stored in an array in the file `playlist.js`.  
+It then adds them in the play queue on its own. Now you an listen to songs of your choice  
+without even needing to press a single key.
 
 ### Dependencies Required
 
