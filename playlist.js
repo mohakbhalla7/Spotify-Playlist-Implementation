@@ -3,7 +3,6 @@
  **********************************************/
 
 module.exports= [
-    "One and Only Adele",
     "Arcade",
     "Lost Stars Adam Levine",
     "A higher place",
@@ -11,6 +10,5 @@ module.exports= [
     "Love my way",
     "No one else like you",
     "Minefields",
-    "You were meant for me",
     "This town Niall Horan"
 ]
