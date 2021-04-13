@@ -1,7 +1,6 @@
 /**********************************************
  * brief    This JS code is an implementation of a playlist in the spotify.
- *          It reads the names of the songs stored in an array in the file
- *          'playlist.js' and then adds them in the play queue on its own.
+ *          It plays the songs stored in an array in the file 'playlist.js'.
  **********************************************/
 
 
